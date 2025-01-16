@@ -1,0 +1,14 @@
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\bin\Debug\net8.0\MazeRunner.exe
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\bin\Debug\net8.0\MazeRunner.deps.json
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\bin\Debug\net8.0\MazeRunner.runtimeconfig.json
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\bin\Debug\net8.0\MazeRunner.dll
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\bin\Debug\net8.0\MazeRunner.pdb
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\obj\Debug\net8.0\MazeRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\obj\Debug\net8.0\MazeRunner.AssemblyInfoInputs.cache
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\obj\Debug\net8.0\MazeRunner.AssemblyInfo.cs
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\obj\Debug\net8.0\MazeRunner.csproj.CoreCompileInputs.cache
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\obj\Debug\net8.0\MazeRunner.dll
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\obj\Debug\net8.0\refint\MazeRunner.dll
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\obj\Debug\net8.0\MazeRunner.pdb
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\obj\Debug\net8.0\MazeRunner.genruntimeconfig.cache
+C:\Users\pizar\OneDrive\Desktop\Poyecto\MazeRunner\obj\Debug\net8.0\ref\MazeRunner.dll
