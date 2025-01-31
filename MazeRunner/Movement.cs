@@ -17,11 +17,11 @@ class Movement
             {
                 if ((x, y) == posicionPersonaje1)
                 {
-                    Console.Write("👵");
+                    Console.Write("🔵");
                 }
                 else if ((x, y) == posicionPersonaje2)
                 {
-                    Console.Write("👨");
+                    Console.Write("🔴");
                 }
                 else
                 {
